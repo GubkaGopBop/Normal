@@ -8,7 +8,7 @@ class VFSReplGUI(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("VFS")
-        self.geometry("760x420")
+        self.geometry("820x480")
 
         self.output = scrolledtext.ScrolledText(self, wrap=tk.WORD, state="disabled", font=("Consolas", 11))
         self.output.pack(fill=tk.BOTH, expand=True, padx=6, pady=(6,0))
