@@ -1,0 +1,6 @@
+ls
+cd dirA
+ls
+cd ..
+cd dirB
+ls

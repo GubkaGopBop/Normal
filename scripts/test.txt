@@ -1,0 +1,4 @@
+ls wrongparam
+cd dirA
+cd not_exist
+ls
