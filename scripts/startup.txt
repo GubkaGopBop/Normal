@@ -1,4 +1,0 @@
-ls 1234
-cd dirA
-ls ..
-cd f1 f2 f3
